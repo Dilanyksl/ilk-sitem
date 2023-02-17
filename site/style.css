@@ -1,0 +1,36 @@
+.body{background-color: rgb(240, 205, 163);}
+.başlıklar{color: rgb(164, 95, 95);
+    text-align: center;
+    font-style: italic;
+}
+a:link, a:visited {
+   border-style: outset;
+    background-color: rgb(183, 175, 175);
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+  }
+.a :hover {
+
+    color: palevioletred;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .m{
+    list-style-position: inside;
+    color: blueviolet;
+    text-align:center;
+    font-size: xx-large;
+    font-style: italic;
+}
+.p{font-style:bold;
+color: rgba(255, 255, 255, 0.782);
+font-style: bold;
+font-size: x-large;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px
+}
